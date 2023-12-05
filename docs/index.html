@@ -71,7 +71,7 @@
             gitalk = new Gitalk(
               Object.assign(gitalkConfig, { id: !label ? "home" : label })
             );
-            gitalk.render("gitalk-container" + label);
+            gitalk.render("gitalk-container-" + label);
           });
         }
       ]
