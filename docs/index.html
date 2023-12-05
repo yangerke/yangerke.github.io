@@ -72,7 +72,7 @@
             // gitalk = new Gitalk(
             //   Object.assign(gitalkConfig, { id: !label ? "home" : label })
             // );
-            const gitalk = Gitalk(
+            gitalk = Gitalk(
               {
                 clientID: 'ea8e7dfbd4fc24726ccc',
                 clientSecret: '2796d3b5b298fa940e2a5b6a66d7e269e0aab094',
@@ -82,7 +82,7 @@
                 id:location.pathname,
                 distractionFreeMode: false
               }
-            )
+            );
             gitalk.render("gitalk-container-" + label);
           });
         }
