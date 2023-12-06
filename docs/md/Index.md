@@ -1,4 +1,4 @@
-# 《IDEA Plugin 开发手册》• 小傅哥.pdf
+# 博客
 
 作者：
 <br/>博客：[https://yangerke.github.io](https://yangerke.github.io)
