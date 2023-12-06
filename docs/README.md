@@ -1,6 +1,6 @@
 # IDEA Plugin 开发手册 🔥
 
->你好，我是小傅哥，[《重学Java设计模式》](https://item.jd.com/13218336.html) 图书作者，一线互联网 Java 工程师、架构师。
+>你好，我是GRAM，[《重学Java设计模式》](https://item.jd.com/13218336.html) 图书作者，一线互联网 Java 工程师、架构师。
 
 一个着迷于技术又喜欢不断折腾的技术活跃者，从13年毕业到进入互联网，开发过交易、营销类项目，实现过运营、活动类项目，设计过中间件，组织过系统重构，编写过技术专利。不仅从事业务系统的开发工作，也经常做一些字节码插桩类的设计和实现，对架构的设计和落地有丰富的经验。在热衷于Java语言的同时，也喜欢研究中继器、I/O板卡、C#和PHP！
 
@@ -29,14 +29,14 @@
 
 ![](https://bugstack.cn/images/article/knowledge/knowledge-220123-02.png)
 
-这是小傅哥开发的一款用于帮助使用 IDEA 编写代码的研发人员，快速生成两个对象转换过程中所需要大量的 `x.set(y.get)` 代码块的 vo2dto 插件工具。*可以直接在 IDEA 中搜索安装使用*
+这是GRAM开发的一款用于帮助使用 IDEA 编写代码的研发人员，快速生成两个对象转换过程中所需要大量的 `x.set(y.get)` 代码块的 vo2dto 插件工具。*可以直接在 IDEA 中搜索安装使用*
 
 | `对vo2dto感兴趣的，程序员👨🏻‍💻‍，来自这些国家` |
 |:---:|
 | ![](https://bugstack.cn/images/article/knowledge/knowledge-220123-03.png) |
 
 - 插件：[https://plugins.jetbrains.com/plugin/18262-vo2dto](https://plugins.jetbrains.com/plugin/18262-vo2dto)
-- 源码：[https://github.com/fuzhengwei/vo2dto](https://github.com/fuzhengwei/vo2dto)
+- 源码：[https://github.com/yangerke/vo2dto](https://github.com/yangerke/vo2dto)
 - 视频：[https://www.bilibili.com/video/BV13Y411h7fv](https://www.bilibili.com/video/BV13Y411h7fv) - `讲解插件的整体设计和使用说明`
 
 ## 三、别说了，上干货吧！
@@ -67,17 +67,17 @@ IDEA 插件开发可以帮助研发人员提升能效，解决一些实际场景
 
 ## 四、问题交流
 
-![](https://github.com/fuzhengwei/small-spring/blob/main/docs/assets/img/bugstack-md.png?raw=true)
+![](https://github.com/yangerke/small-spring/blob/main/docs/assets/img/bugstack-md.png?raw=true)
 
 <br/>
 <div align="center">
-    <a href="https://github.com/fuzhengwei/CodeGuide">关注小傅哥，你可以学到的更多！</a>
+    <a href="https://github.com/yangerke/CodeGuide">关注GRAM，你可以学到的更多！</a>
 </div>
 <br/>  
 
 - **加群交流**
 
-    本群的宗旨是给大家提供一个良好的技术学习交流平台，所以杜绝一切广告！由于微信群人满 100 之后无法加入，请扫描下方二维码先添加作者 “小傅哥” 微信(fustack)，备注：`学习加群`。
+    本群的宗旨是给大家提供一个良好的技术学习交流平台，所以杜绝一切广告！由于微信群人满 100 之后无法加入，请扫描下方二维码先添加作者 “GRAM” 微信(fustack)，备注：`学习加群`。
     
     <img src="https://bugstack.cn/images/personal/fustack.png" width="180" height="180"/>
 

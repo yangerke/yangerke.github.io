@@ -1,6 +1,6 @@
 # 第9节：通过Inspection机制，对静态代码安全审查
 
-作者：小傅哥
+作者：GRAM
 <br/>博客：[https://bugstack.cn](https://bugstack.cn)
 
 >沉淀、分享、成长，让自己和他人都能有所收获！😄
@@ -112,7 +112,7 @@ public PsiElementVisitor buildVisitor(@NotNull ProblemsHolder holder, boolean is
 ```html
 <html>
 <body>
-<b>小傅哥-提醒:</b> 不安全的伪随机数生成器 <br>
+<b>GRAM-提醒:</b> 不安全的伪随机数生成器 <br>
 <br>
 <p>java.util.Random 依赖一个可被预测的伪随机数生成器。</p>
 <br>

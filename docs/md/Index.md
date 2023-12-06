@@ -28,14 +28,14 @@
 
 ![](https://bugstack.cn/images/article/knowledge/knowledge-220123-02.png)
 
-这是小傅哥开发的一款用于帮助使用 IDEA 编写代码的研发人员，快速生成两个对象转换过程中所需要大量的 `x.set(y.get)` 代码块的 vo2dto 插件工具。*可以直接在 IDEA 中搜索安装使用*
+这是GRAM开发的一款用于帮助使用 IDEA 编写代码的研发人员，快速生成两个对象转换过程中所需要大量的 `x.set(y.get)` 代码块的 vo2dto 插件工具。*可以直接在 IDEA 中搜索安装使用*
 
 | `对vo2dto感兴趣的，程序员👨🏻‍💻‍，来自这些国家` |
 |:---:|
 | ![](https://bugstack.cn/images/article/knowledge/knowledge-220123-03.png) |
 
 - 插件：[https://plugins.jetbrains.com/plugin/18262-vo2dto](https://plugins.jetbrains.com/plugin/18262-vo2dto)
-- 源码：[https://github.com/fuzhengwei/vo2dto](https://github.com/fuzhengwei/vo2dto)
+- 源码：[https://github.com/yangerke/vo2dto](https://github.com/yangerke/vo2dto)
 - 视频：[https://www.bilibili.com/video/BV13Y411h7fv](https://www.bilibili.com/video/BV13Y411h7fv) - `讲解插件的整体设计和使用说明`
 
 ## 三、别说了，上干货吧！
@@ -68,7 +68,7 @@ IDEA 插件开发可以帮助研发人员提升能效，解决一些实际场景
 
 ## 四、PDF📚下载
 
-**版权说明**：`作者：小傅哥`的原创PDF书籍[《IDEA Plugin 开发手册》](#)，已发布知识星球(`码农会锁`)和CSDN下载平台，享受版权保护，感谢支持和理解。
+**版权说明**：`作者：GRAM`的原创PDF书籍[《IDEA Plugin 开发手册》](#)，已发布知识星球(`码农会锁`)和CSDN下载平台，享受版权保护，感谢支持和理解。
 
 ### 1. 可获得内容包括
 
@@ -80,7 +80,7 @@ IDEA 插件开发可以帮助研发人员提升能效，解决一些实际场景
 
 - CSDN：[https://download.csdn.net/download/Yao__Shun__Yu/77484299](https://download.csdn.net/download/Yao__Shun__Yu/77484299) - `￥4.9`
 - 知识星球(`码农会锁`)：[https://t.zsxq.com/ufmQnA2](https://t.zsxq.com/ufmQnA2) - `知识星球用户可直接免费下载，不需要单独付费。此外知识星球还提供了简历优化、实战DDD秒杀项目、架构设计、PPT画架构等内容`
-- 添加小傅哥微信(fustack)获取最新下载链接，备注：`IDEA Plugin`
+- 添加GRAM微信(fustack)获取最新下载链接，备注：`IDEA Plugin`
 
 ## 五、🎉收尾
 
