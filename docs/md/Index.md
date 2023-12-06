@@ -1,7 +1,7 @@
 # 《IDEA Plugin 开发手册》• 小傅哥.pdf
 
-作者：小傅哥
-<br/>博客：[https://bugstack.cn](https://bugstack.cn)
+作者：
+<br/>博客：[https://yangerke.github.io](https://yangerke.github.io)
 
 >沉淀、分享、成长，让自己和他人都能有所收获！😄
 
