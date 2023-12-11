@@ -1,3 +1,5 @@
 - [:octocat: 首页](/README)
 - :memo: 目录
-   - [笔记：笔记](/md/idea-plugin/2023-12-11-笔记)
+   - 第1章：开发入门
+       - [第1节：IDEA 插件怎么开发](/md/idea-plugin/2023-12-11-笔记.md)
+       - [第2节：IDEA 插件怎么发布](/md/idea-plugin/2021-08-29-技术实践IDEA插件怎么发布.md)
